@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/consguic/LeetCode/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/consguic/LeetCode/tree/master/0058-length-of-last-word) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/consguic/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
