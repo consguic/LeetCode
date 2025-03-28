@@ -1,26 +1,23 @@
 class Solution(object):
-    def romanToInt(self, s):
+    def romanToInt(self,s):
         roman_dict = {
-            'I': 1, 'V': 5, 'X': 10, 'L': 50,
-            'C': 100, 'D': 500, 'M': 1000
+        'I': 1, 'V': 5, 'X': 10, 'L': 50,
+        'C': 100, 'D': 500, 'M': 1000, 
+        "IV": 4, "IX": 9, "XL": 40, "XC": 90, "CD": 400, "CM": 900
         }
-        
-        sayi = 0
+        parsed_parts = []
         i = 0
-
-        while i < len(s):  # Manuel olarak index artırıyoruz
-            if i < len(s) - 1 and s[i] == "I" and s[i+1] in ["V", "X"]:
-                sayi += 4 if s[i+1] == "V" else 9
-                i += 2  # 2 harf işlediğimiz için i'yi 2 artır
-            elif i < len(s) - 1 and s[i] == "X" and s[i+1] in ["L", "C"]:
-                sayi += 40 if s[i+1] == "L" else 90
-                i += 2
-            elif i < len(s) - 1 and s[i] == "C" and s[i+1] in ["D", "M"]:
-                sayi += 400 if s[i+1] == "D" else 900
+        while i < len(s):
+            if i < len(s) - 1 and s[i:i+2] in roman_dict:
+                parsed_parts.append(s[i:i+2])
                 i += 2
             else:
-                sayi += roman_dict[s[i]]
-                i += 1  # Tek harf işlediysek sadece 1 artır
+                parsed_parts.append(s[i])
+                i += 1
+        total = sum(roman_dict[part] for part in parsed_parts)  
+        return total  
 
-        return sayi
+
+
+
 
