@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/consguic/LeetCode/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/consguic/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/consguic/LeetCode/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/consguic/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/consguic/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/consguic/LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
