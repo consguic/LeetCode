@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/consguic/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/consguic/LeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/consguic/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/consguic/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/consguic/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/consguic/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/consguic/LeetCode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/consguic/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/consguic/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/consguic/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/consguic/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/consguic/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/consguic/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/consguic/LeetCode/tree/master/0290-word-pattern) |
