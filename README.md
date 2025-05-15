@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/consguic/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/consguic/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/consguic/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/consguic/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/consguic/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/consguic/LeetCode/tree/master/0228-summary-ranges) |
 | [0605-can-place-flowers](https://github.com/consguic/LeetCode/tree/master/0605-can-place-flowers) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/consguic/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/consguic/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/consguic/LeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/consguic/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/consguic/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/consguic/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/consguic/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/consguic/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/consguic/LeetCode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
